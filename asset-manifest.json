@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shinkan/static/css/main.c99779d6.chunk.css",
-    "main.js": "/shinkan/static/js/main.4674a709.chunk.js",
-    "main.js.map": "/shinkan/static/js/main.4674a709.chunk.js.map",
+    "main.js": "/shinkan/static/js/main.5892e90e.chunk.js",
+    "main.js.map": "/shinkan/static/js/main.5892e90e.chunk.js.map",
     "runtime-main.js": "/shinkan/static/js/runtime-main.1ceac66c.js",
     "runtime-main.js.map": "/shinkan/static/js/runtime-main.1ceac66c.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/shinkan/static/css/2.4c97ca4f.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.d2f6f351.chunk.js",
     "static/css/main.c99779d6.chunk.css",
-    "static/js/main.4674a709.chunk.js"
+    "static/js/main.5892e90e.chunk.js"
   ]
 }
