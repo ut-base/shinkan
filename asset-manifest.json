@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/shinkan/static/css/main.7f63d5d1.chunk.css",
-    "main.js": "/shinkan/static/js/main.c5e0cc81.chunk.js",
-    "main.js.map": "/shinkan/static/js/main.c5e0cc81.chunk.js.map",
+    "main.css": "/shinkan/static/css/main.897dc822.chunk.css",
+    "main.js": "/shinkan/static/js/main.599f99b9.chunk.js",
+    "main.js.map": "/shinkan/static/js/main.599f99b9.chunk.js.map",
     "runtime-main.js": "/shinkan/static/js/runtime-main.1d904ba8.js",
     "runtime-main.js.map": "/shinkan/static/js/runtime-main.1d904ba8.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/shinkan/static/css/2.4c97ca4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.cb06e941.chunk.js.map": "/shinkan/static/js/3.cb06e941.chunk.js.map",
     "index.html": "/shinkan/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/shinkan/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.7f63d5d1.chunk.css.map": "/shinkan/static/css/main.7f63d5d1.chunk.css.map",
+    "static/css/main.897dc822.chunk.css.map": "/shinkan/static/css/main.897dc822.chunk.css.map",
     "static/js/2.f08b308f.chunk.js.LICENSE.txt": "/shinkan/static/js/2.f08b308f.chunk.js.LICENSE.txt",
     "static/media/komaba.345a114e.jpeg": "/shinkan/static/media/komaba.345a114e.jpeg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.1d904ba8.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.f08b308f.chunk.js",
-    "static/css/main.7f63d5d1.chunk.css",
-    "static/js/main.c5e0cc81.chunk.js"
+    "static/css/main.897dc822.chunk.css",
+    "static/js/main.599f99b9.chunk.js"
   ]
 }
