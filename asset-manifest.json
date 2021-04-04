@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/shinkan/static/css/main.4804a52b.chunk.css",
-    "main.js": "/shinkan/static/js/main.c83b6c0a.chunk.js",
-    "main.js.map": "/shinkan/static/js/main.c83b6c0a.chunk.js.map",
-    "runtime-main.js": "/shinkan/static/js/runtime-main.1d904ba8.js",
-    "runtime-main.js.map": "/shinkan/static/js/runtime-main.1d904ba8.js.map",
+    "main.css": "/shinkan/static/css/main.5ab61a5b.chunk.css",
+    "main.js": "/shinkan/static/js/main.3798dbb9.chunk.js",
+    "main.js.map": "/shinkan/static/js/main.3798dbb9.chunk.js.map",
+    "runtime-main.js": "/shinkan/static/js/runtime-main.3941efe5.js",
+    "runtime-main.js.map": "/shinkan/static/js/runtime-main.3941efe5.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/shinkan/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.7d413412.chunk.js": "/shinkan/static/js/2.7d413412.chunk.js",
-    "static/js/2.7d413412.chunk.js.map": "/shinkan/static/js/2.7d413412.chunk.js.map",
-    "static/js/3.cb06e941.chunk.js": "/shinkan/static/js/3.cb06e941.chunk.js",
-    "static/js/3.cb06e941.chunk.js.map": "/shinkan/static/js/3.cb06e941.chunk.js.map",
+    "static/js/2.d0ebad54.chunk.js": "/shinkan/static/js/2.d0ebad54.chunk.js",
+    "static/js/2.d0ebad54.chunk.js.map": "/shinkan/static/js/2.d0ebad54.chunk.js.map",
+    "static/js/3.636af2f4.chunk.js": "/shinkan/static/js/3.636af2f4.chunk.js",
+    "static/js/3.636af2f4.chunk.js.map": "/shinkan/static/js/3.636af2f4.chunk.js.map",
     "index.html": "/shinkan/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/shinkan/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.4804a52b.chunk.css.map": "/shinkan/static/css/main.4804a52b.chunk.css.map",
-    "static/js/2.7d413412.chunk.js.LICENSE.txt": "/shinkan/static/js/2.7d413412.chunk.js.LICENSE.txt",
+    "static/css/main.5ab61a5b.chunk.css.map": "/shinkan/static/css/main.5ab61a5b.chunk.css.map",
+    "static/js/2.d0ebad54.chunk.js.LICENSE.txt": "/shinkan/static/js/2.d0ebad54.chunk.js.LICENSE.txt",
     "static/media/komaba.345a114e.jpeg": "/shinkan/static/media/komaba.345a114e.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d904ba8.js",
+    "static/js/runtime-main.3941efe5.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.7d413412.chunk.js",
-    "static/css/main.4804a52b.chunk.css",
-    "static/js/main.c83b6c0a.chunk.js"
+    "static/js/2.d0ebad54.chunk.js",
+    "static/css/main.5ab61a5b.chunk.css",
+    "static/js/main.3798dbb9.chunk.js"
   ]
 }
